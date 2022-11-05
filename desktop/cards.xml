@@ -1,0 +1,56 @@
+<?xml version = "1.0"?>
+<cards>
+	<card id="1">
+		<name>Foo</name>
+		<description>Hello World</description>
+		<damage>5</damage>
+		<block>false</block>
+		<heal>0</heal>
+		<manaCost>0</manaCost>
+	</card>
+	<card id="2">
+		<name>Bar</name>
+		<description>Goodbye World</description>
+		<damage>0</damage>
+		<block>true</block>
+		<heal>6</heal>
+		<manaCost>0</manaCost>
+	</card>
+	<card id="3">
+		<name>Double Slash</name>
+		<description>Slash with your sword twice</description>
+		<damage>10</damage>
+		<block>false</block>
+		<heal>0</heal>
+		<manaCost>5</manaCost>
+	</card>
+	<card id="4">
+		<name>Block</name>
+		<description>Block with your sword</description>
+		<damage>0</damage>
+		<block>true</block>
+		<heal>0</heal>
+		<manaCost>15</manaCost>
+	</card>
+	<card id="5">
+		<name>Invigorate</name>
+		<description>Heal yourself</description>
+		<damage>0</damage>
+		<block>false</block>
+		<heal>6</heal>
+		<manaCost>20</manaCost>
+	</card>
+	<card id="6">
+		<name>Shoot</name>
+		<description>Shoots an arrow</description>
+		<damage>4</damage>
+		<block>false</block>
+		<heal>0</heal>
+		<manaCost>5</manaCost>
+	</card>
+
+
+
+
+
+</cards>

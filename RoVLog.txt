@@ -1,0 +1,2760 @@
+Tue Dec 08 19:35:55 CST 2020: Settings clicked
+Tue Dec 08 19:39:05 CST 2020: Settings clicked
+Tue Dec 08 19:39:05 CST 2020: Settings clicked
+Tue Dec 08 19:39:05 CST 2020: Settings clicked
+Tue Dec 08 19:40:27 CST 2020: Settings clicked
+Tue Dec 08 19:40:27 CST 2020: Resume game clicked
+Tue Dec 08 19:40:27 CST 2020: Start game clicked
+Tue Dec 08 19:40:27 CST 2020: Created character type 1
+Tue Dec 08 19:40:27 CST 2020: Saving character 
+Tue Dec 08 19:40:27 CST 2020: Character 0 chosen
+Tue Dec 08 19:40:27 CST 2020: Dialog continued
+Tue Dec 08 19:40:27 CST 2020: Dialog continued
+Tue Dec 08 19:40:27 CST 2020: Reading character from file
+Tue Dec 08 19:40:27 CST 2020: Created character type 1
+Tue Dec 08 19:40:27 CST 2020: Created character type 4
+Tue Dec 08 19:40:27 CST 2020: Dialog continued
+Tue Dec 08 19:40:27 CST 2020: Card2 clicked.
+Tue Dec 08 19:40:27 CST 2020: Monster uses Attack
+Tue Dec 08 19:40:27 CST 2020: Card3 clicked.
+Tue Dec 08 19:40:27 CST 2020: Monster uses Attack
+Tue Dec 08 19:40:27 CST 2020: Card1 clicked.
+Tue Dec 08 19:40:27 CST 2020: Monster uses Attack
+Tue Dec 08 19:41:37 CST 2020: Start game clicked
+Tue Dec 08 19:41:37 CST 2020: Created character type 1
+Tue Dec 08 19:41:37 CST 2020: Saving character 
+Tue Dec 08 19:41:37 CST 2020: Character 0 chosen
+Tue Dec 08 19:41:37 CST 2020: Dialog continued
+Tue Dec 08 19:41:37 CST 2020: Dialog continued
+Tue Dec 08 19:41:37 CST 2020: Reading character from file
+Tue Dec 08 19:41:37 CST 2020: Created character type 1
+Tue Dec 08 19:41:37 CST 2020: Created character type 4
+Tue Dec 08 19:41:37 CST 2020: Dialog continued
+Tue Dec 08 19:51:45 CST 2020: Start game clicked
+Tue Dec 08 19:51:45 CST 2020: Created character type 1
+Tue Dec 08 19:51:45 CST 2020: Saving character 
+Tue Dec 08 19:51:45 CST 2020: Character 0 chosen
+Tue Dec 08 19:51:45 CST 2020: Dialog continued
+Tue Dec 08 19:51:45 CST 2020: Dialog continued
+Tue Dec 08 19:51:45 CST 2020: Reading character from file
+Tue Dec 08 19:51:45 CST 2020: Created character type 1
+Tue Dec 08 19:51:45 CST 2020: Created character type 4
+Tue Dec 08 19:51:45 CST 2020: Dialog continued
+Tue Dec 08 19:53:48 CST 2020: Resume game clicked
+Tue Dec 08 19:53:48 CST 2020: Start game clicked
+Tue Dec 08 19:53:48 CST 2020: Created character type 1
+Tue Dec 08 19:53:48 CST 2020: Saving character 
+Tue Dec 08 19:53:48 CST 2020: Character 0 chosen
+Tue Dec 08 19:53:48 CST 2020: Dialog continued
+Tue Dec 08 19:53:48 CST 2020: Dialog continued
+Tue Dec 08 19:53:48 CST 2020: Reading character from file
+Tue Dec 08 19:53:48 CST 2020: Created character type 1
+Tue Dec 08 19:53:48 CST 2020: Created character type 4
+Tue Dec 08 19:53:48 CST 2020: Dialog continued
+Tue Dec 08 19:54:18 CST 2020: Start game clicked
+Tue Dec 08 19:54:18 CST 2020: Created character type 1
+Tue Dec 08 19:54:18 CST 2020: Saving character 
+Tue Dec 08 19:54:18 CST 2020: Character 0 chosen
+Tue Dec 08 19:54:18 CST 2020: Dialog continued
+Tue Dec 08 19:54:18 CST 2020: Dialog continued
+Tue Dec 08 19:54:18 CST 2020: Reading character from file
+Tue Dec 08 19:54:18 CST 2020: Created character type 1
+Tue Dec 08 19:54:18 CST 2020: Created character type 4
+Tue Dec 08 19:54:18 CST 2020: Dialog continued
+Tue Dec 08 19:56:44 CST 2020: Start game clicked
+Tue Dec 08 19:56:44 CST 2020: Created character type 1
+Tue Dec 08 19:56:44 CST 2020: Saving character 
+Tue Dec 08 19:56:44 CST 2020: Character 0 chosen
+Tue Dec 08 19:56:44 CST 2020: Dialog continued
+Tue Dec 08 19:56:44 CST 2020: Dialog continued
+Tue Dec 08 19:56:44 CST 2020: Reading character from file
+Tue Dec 08 19:56:44 CST 2020: Created character type 1
+Tue Dec 08 19:56:44 CST 2020: Created character type 4
+Tue Dec 08 19:56:44 CST 2020: Dialog continued
+Tue Dec 08 19:58:13 CST 2020: Start game clicked
+Tue Dec 08 19:58:13 CST 2020: Created character type 1
+Tue Dec 08 19:58:13 CST 2020: Saving character 
+Tue Dec 08 19:58:13 CST 2020: Character 0 chosen
+Tue Dec 08 19:58:13 CST 2020: Dialog continued
+Tue Dec 08 19:58:13 CST 2020: Dialog continued
+Tue Dec 08 19:58:13 CST 2020: Reading character from file
+Tue Dec 08 19:58:13 CST 2020: Created character type 1
+Tue Dec 08 19:58:13 CST 2020: Created character type 4
+Tue Dec 08 19:58:13 CST 2020: Dialog continued
+Tue Dec 08 19:59:43 CST 2020: Start game clicked
+Tue Dec 08 19:59:43 CST 2020: Created character type 1
+Tue Dec 08 19:59:43 CST 2020: Saving character 
+Tue Dec 08 19:59:43 CST 2020: Character 0 chosen
+Tue Dec 08 19:59:43 CST 2020: Dialog continued
+Tue Dec 08 19:59:43 CST 2020: Dialog continued
+Tue Dec 08 19:59:43 CST 2020: Reading character from file
+Tue Dec 08 19:59:43 CST 2020: Created character type 1
+Tue Dec 08 19:59:43 CST 2020: Created character type 4
+Tue Dec 08 19:59:43 CST 2020: Dialog continued
+Tue Dec 08 19:59:54 CST 2020: Start game clicked
+Tue Dec 08 19:59:54 CST 2020: Created character type 2
+Tue Dec 08 19:59:54 CST 2020: Saving character 
+Tue Dec 08 19:59:54 CST 2020: Character 1 chosen
+Tue Dec 08 19:59:54 CST 2020: Dialog continued
+Tue Dec 08 19:59:54 CST 2020: Dialog continued
+Tue Dec 08 19:59:54 CST 2020: Reading character from file
+Tue Dec 08 19:59:54 CST 2020: Created character type 1
+Tue Dec 08 19:59:54 CST 2020: Created character type 4
+Tue Dec 08 19:59:54 CST 2020: Dialog continued
+Tue Dec 08 20:00:13 CST 2020: Start game clicked
+Tue Dec 08 20:00:13 CST 2020: Created character type 1
+Tue Dec 08 20:00:13 CST 2020: Saving character 
+Tue Dec 08 20:00:13 CST 2020: Character 0 chosen
+Tue Dec 08 20:00:13 CST 2020: Dialog continued
+Tue Dec 08 20:00:13 CST 2020: Dialog continued
+Tue Dec 08 20:00:13 CST 2020: Reading character from file
+Tue Dec 08 20:00:13 CST 2020: Created character type 1
+Tue Dec 08 20:00:13 CST 2020: Created character type 4
+Tue Dec 08 20:00:13 CST 2020: Dialog continued
+Tue Dec 08 20:00:31 CST 2020: Start game clicked
+Tue Dec 08 20:00:31 CST 2020: Created character type 1
+Tue Dec 08 20:00:31 CST 2020: Saving character 
+Tue Dec 08 20:00:31 CST 2020: Character 0 chosen
+Tue Dec 08 20:00:31 CST 2020: Dialog continued
+Tue Dec 08 20:00:31 CST 2020: Dialog continued
+Tue Dec 08 20:00:31 CST 2020: Reading character from file
+Tue Dec 08 20:00:31 CST 2020: Created character type 1
+Tue Dec 08 20:00:31 CST 2020: Created character type 4
+Tue Dec 08 20:00:31 CST 2020: Dialog continued
+Tue Dec 08 20:00:47 CST 2020: Start game clicked
+Tue Dec 08 20:00:47 CST 2020: Created character type 1
+Tue Dec 08 20:00:47 CST 2020: Saving character 
+Tue Dec 08 20:00:47 CST 2020: Character 0 chosen
+Tue Dec 08 20:00:47 CST 2020: Dialog continued
+Tue Dec 08 20:00:47 CST 2020: Dialog continued
+Tue Dec 08 20:00:47 CST 2020: Reading character from file
+Tue Dec 08 20:00:47 CST 2020: Created character type 1
+Tue Dec 08 20:00:47 CST 2020: Created character type 4
+Tue Dec 08 20:00:47 CST 2020: Dialog continued
+Tue Dec 08 20:01:00 CST 2020: Start game clicked
+Tue Dec 08 20:01:00 CST 2020: Created character type 1
+Tue Dec 08 20:01:00 CST 2020: Saving character 
+Tue Dec 08 20:01:00 CST 2020: Character 0 chosen
+Tue Dec 08 20:01:00 CST 2020: Dialog continued
+Tue Dec 08 20:01:00 CST 2020: Dialog continued
+Tue Dec 08 20:01:00 CST 2020: Reading character from file
+Tue Dec 08 20:01:00 CST 2020: Created character type 1
+Tue Dec 08 20:01:00 CST 2020: Created character type 4
+Tue Dec 08 20:01:00 CST 2020: Dialog continued
+Tue Dec 08 20:02:08 CST 2020: Start game clicked
+Tue Dec 08 20:02:08 CST 2020: Created character type 1
+Tue Dec 08 20:02:08 CST 2020: Saving character 
+Tue Dec 08 20:02:08 CST 2020: Character 0 chosen
+Tue Dec 08 20:02:08 CST 2020: Dialog continued
+Tue Dec 08 20:02:08 CST 2020: Dialog continued
+Tue Dec 08 20:02:08 CST 2020: Reading character from file
+Tue Dec 08 20:02:08 CST 2020: Created character type 1
+Tue Dec 08 20:02:08 CST 2020: Created character type 4
+Tue Dec 08 20:02:08 CST 2020: Dialog continued
+Wed Dec 09 20:54:44 CST 2020: Start game clicked
+Wed Dec 09 20:54:44 CST 2020: Created character type 1
+Wed Dec 09 20:54:44 CST 2020: Saving character 
+Wed Dec 09 20:54:44 CST 2020: Error opening ./Dialog/Intro.txt
+Wed Dec 09 20:54:44 CST 2020: Character 0 chosen
+Wed Dec 09 20:56:04 CST 2020: Start game clicked
+Wed Dec 09 20:56:04 CST 2020: Created character type 1
+Wed Dec 09 20:56:04 CST 2020: Saving character 
+Wed Dec 09 20:56:04 CST 2020: Error opening Dialog/Intro.txt
+Wed Dec 09 20:56:04 CST 2020: Character 0 chosen
+Wed Dec 09 20:56:54 CST 2020: Start game clicked
+Wed Dec 09 20:56:54 CST 2020: Created character type 1
+Wed Dec 09 20:56:54 CST 2020: Saving character 
+Wed Dec 09 20:56:54 CST 2020: Character 0 chosen
+Wed Dec 09 20:56:54 CST 2020: Dialog continued
+Wed Dec 09 20:56:54 CST 2020: Dialog continued
+Wed Dec 09 20:56:54 CST 2020: Reading character from file
+Wed Dec 09 20:56:54 CST 2020: Created character type 1
+Wed Dec 09 20:56:54 CST 2020: Created character type 4
+Wed Dec 09 20:56:54 CST 2020: Dialog continued
+Wed Dec 09 21:04:47 CST 2020: Start game clicked
+Wed Dec 09 21:04:47 CST 2020: Created character type 1
+Wed Dec 09 21:04:47 CST 2020: Saving character 
+Wed Dec 09 21:04:47 CST 2020: Character 0 chosen
+Wed Dec 09 21:04:47 CST 2020: Dialog continued
+Wed Dec 09 21:04:47 CST 2020: Dialog continued
+Wed Dec 09 21:04:47 CST 2020: Reading character from file
+Wed Dec 09 21:04:47 CST 2020: Created character type 1
+Wed Dec 09 21:04:47 CST 2020: Created character type 4
+Wed Dec 09 21:04:47 CST 2020: Dialog continued
+Wed Dec 09 21:05:46 CST 2020: Start game clicked
+Wed Dec 09 21:06:00 CST 2020: Start game clicked
+Wed Dec 09 21:06:00 CST 2020: Created character type 1
+Wed Dec 09 21:06:00 CST 2020: Saving character 
+Wed Dec 09 21:06:00 CST 2020: Character 0 chosen
+Wed Dec 09 21:12:38 CST 2020: Start game clicked
+Wed Dec 09 21:12:38 CST 2020: Created character type 1
+Wed Dec 09 21:12:38 CST 2020: Saving character 
+Wed Dec 09 21:12:38 CST 2020: Character 0 chosen
+Wed Dec 09 21:12:38 CST 2020: Dialog continued
+Wed Dec 09 21:12:38 CST 2020: Dialog continued
+Wed Dec 09 21:12:38 CST 2020: Reading character from file
+Wed Dec 09 21:12:38 CST 2020: Created character type 1
+Wed Dec 09 21:12:38 CST 2020: Created character type 4
+Wed Dec 09 21:12:38 CST 2020: Dialog continued
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Attack
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Heal
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Attack
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Heal
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Heal
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Heal
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Attack
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Attack
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Heal
+Wed Dec 09 21:12:38 CST 2020: Card1 clicked.
+Wed Dec 09 21:12:38 CST 2020: Monster uses Attack
+Wed Dec 09 21:12:38 CST 2020: Monster defeated!
+Wed Dec 09 21:12:38 CST 2020: Dialog continued
+Wed Dec 09 21:12:38 CST 2020: Dialog continued
+Wed Dec 09 21:12:38 CST 2020: Game Lost
+Wed Dec 09 21:18:09 CST 2020: Start game clicked
+Wed Dec 09 21:18:09 CST 2020: Created character type 1
+Wed Dec 09 21:18:09 CST 2020: Saving character 
+Wed Dec 09 21:18:09 CST 2020: Error opening cen3031-80066-group8\Dialog\Intro.txt
+Wed Dec 09 21:18:09 CST 2020: Character 0 chosen
+Wed Dec 09 21:18:56 CST 2020: Start game clicked
+Wed Dec 09 21:18:56 CST 2020: Created character type 1
+Wed Dec 09 21:18:56 CST 2020: Saving character 
+Wed Dec 09 21:18:56 CST 2020: Character 0 chosen
+Wed Dec 09 21:18:56 CST 2020: Dialog continued
+Wed Dec 09 21:21:57 CST 2020: Start game clicked
+Wed Dec 09 21:22:05 CST 2020: Start game clicked
+Wed Dec 09 21:22:05 CST 2020: Created character type 1
+Wed Dec 09 21:22:05 CST 2020: Saving character 
+Wed Dec 09 21:22:05 CST 2020: Character 0 chosen
+Wed Dec 09 21:22:05 CST 2020: Dialog continued
+Wed Dec 09 21:22:05 CST 2020: Dialog continued
+Wed Dec 09 21:22:05 CST 2020: Reading character from file
+Wed Dec 09 21:22:05 CST 2020: Created character type 1
+Wed Dec 09 21:22:05 CST 2020: Created character type 4
+Wed Dec 09 21:22:05 CST 2020: Dialog continued
+Wed Dec 09 21:25:03 CST 2020: Start game clicked
+Wed Dec 09 21:25:03 CST 2020: Created character type 1
+Wed Dec 09 21:25:03 CST 2020: Saving character 
+Wed Dec 09 21:25:03 CST 2020: Character 0 chosen
+Wed Dec 09 21:25:03 CST 2020: Dialog continued
+Wed Dec 09 21:25:03 CST 2020: Dialog continued
+Wed Dec 09 21:25:03 CST 2020: Reading character from file
+Wed Dec 09 21:25:03 CST 2020: Created character type 1
+Wed Dec 09 21:25:03 CST 2020: Created character type 4
+Wed Dec 09 21:25:03 CST 2020: Dialog continued
+Wed Dec 09 21:29:41 CST 2020: Start game clicked
+Wed Dec 09 21:29:41 CST 2020: Created character type 1
+Wed Dec 09 21:29:41 CST 2020: Saving character 
+Wed Dec 09 21:29:41 CST 2020: Character 0 chosen
+Wed Dec 09 21:29:41 CST 2020: Reading character from file
+Wed Dec 09 21:29:41 CST 2020: Created character type 1
+Wed Dec 09 21:29:41 CST 2020: Created character type 4
+Wed Dec 09 21:29:41 CST 2020: Dialog continued
+Wed Dec 09 21:30:47 CST 2020: Start game clicked
+Wed Dec 09 21:30:47 CST 2020: Created character type 1
+Wed Dec 09 21:30:47 CST 2020: Saving character 
+Wed Dec 09 21:30:47 CST 2020: Character 0 chosen
+Wed Dec 09 21:30:47 CST 2020: Reading character from file
+Wed Dec 09 21:30:47 CST 2020: Created character type 1
+Wed Dec 09 21:30:47 CST 2020: Created character type 4
+Wed Dec 09 21:30:47 CST 2020: Dialog continued
+Wed Dec 09 21:31:28 CST 2020: Start game clicked
+Wed Dec 09 21:31:28 CST 2020: Created character type 1
+Wed Dec 09 21:31:28 CST 2020: Saving character 
+Wed Dec 09 21:31:28 CST 2020: Character 0 chosen
+Wed Dec 09 21:31:28 CST 2020: Reading character from file
+Wed Dec 09 21:31:28 CST 2020: Created character type 1
+Wed Dec 09 21:31:28 CST 2020: Created character type 4
+Wed Dec 09 21:31:28 CST 2020: Dialog continued
+Wed Dec 09 21:40:40 CST 2020: Start game clicked
+Wed Dec 09 21:40:40 CST 2020: Created character type 1
+Wed Dec 09 21:40:40 CST 2020: Saving character 
+Wed Dec 09 21:40:40 CST 2020: Error opening ../Dialog/Intro.txt
+Wed Dec 09 21:40:40 CST 2020: Character 0 chosen
+Wed Dec 09 21:41:38 CST 2020: Start game clicked
+Wed Dec 09 21:41:38 CST 2020: Created character type 1
+Wed Dec 09 21:41:38 CST 2020: Saving character 
+Wed Dec 09 21:42:38 CST 2020: Start game clicked
+Wed Dec 09 21:42:38 CST 2020: Created character type 1
+Wed Dec 09 21:42:38 CST 2020: Saving character 
+Wed Dec 09 21:42:38 CST 2020: Error opening ../Dialog/Intro.txt
+Wed Dec 09 21:42:38 CST 2020: Character 0 chosen
+Wed Dec 09 21:43:07 CST 2020: Start game clicked
+Wed Dec 09 21:43:07 CST 2020: Created character type 1
+Wed Dec 09 21:43:07 CST 2020: Saving character 
+Wed Dec 09 21:43:07 CST 2020: Error opening ../Dialog/Intro.txt
+Wed Dec 09 21:43:07 CST 2020: Character 0 chosen
+Wed Dec 09 21:44:41 CST 2020: Start game clicked
+Wed Dec 09 21:44:41 CST 2020: Created character type 1
+Wed Dec 09 21:44:41 CST 2020: Saving character 
+Wed Dec 09 21:44:41 CST 2020: Character 0 chosen
+Wed Dec 09 21:44:41 CST 2020: Dialog continued
+Wed Dec 09 21:44:41 CST 2020: Dialog continued
+Wed Dec 09 21:44:41 CST 2020: Reading character from file
+Wed Dec 09 21:44:41 CST 2020: Created character type 1
+Wed Dec 09 21:44:41 CST 2020: Created character type 4
+Wed Dec 09 21:44:41 CST 2020: Dialog continued
+Wed Dec 09 21:54:00 CST 2020: Start game clicked
+Wed Dec 09 21:54:00 CST 2020: Created character type 1
+Wed Dec 09 21:54:00 CST 2020: Saving character 
+Wed Dec 09 21:54:00 CST 2020: Character 0 chosen
+Wed Dec 09 21:54:00 CST 2020: Dialog continued
+Wed Dec 09 21:54:00 CST 2020: Dialog continued
+Wed Dec 09 21:54:00 CST 2020: Reading character from file
+Wed Dec 09 21:54:00 CST 2020: Created character type 1
+Wed Dec 09 21:54:00 CST 2020: Created character type 4
+Wed Dec 09 21:54:00 CST 2020: Dialog continued
+Wed Dec 09 22:05:31 CST 2020: Start game clicked
+Wed Dec 09 22:05:31 CST 2020: Created character type 1
+Wed Dec 09 22:05:31 CST 2020: Saving character 
+Wed Dec 09 22:05:31 CST 2020: Character 0 chosen
+Wed Dec 09 22:05:31 CST 2020: Dialog continued
+Wed Dec 09 22:05:31 CST 2020: Dialog continued
+Wed Dec 09 22:05:31 CST 2020: Reading character from file
+Wed Dec 09 22:05:31 CST 2020: Created character type 1
+Wed Dec 09 22:05:31 CST 2020: Created character type 4
+Wed Dec 09 22:05:31 CST 2020: Dialog continued
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Heal
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Heal
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:05:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:05:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:05:31 CST 2020: Monster defeated!
+Wed Dec 09 22:05:31 CST 2020: Dialog continued
+Wed Dec 09 22:05:31 CST 2020: Dialog continued
+Wed Dec 09 22:05:31 CST 2020: Game Lost
+Wed Dec 09 22:06:35 CST 2020: Start game clicked
+Wed Dec 09 22:06:35 CST 2020: Created character type 1
+Wed Dec 09 22:06:35 CST 2020: Saving character 
+Wed Dec 09 22:06:35 CST 2020: Character 0 chosen
+Wed Dec 09 22:06:35 CST 2020: Dialog continued
+Wed Dec 09 22:06:35 CST 2020: Dialog continued
+Wed Dec 09 22:06:35 CST 2020: Reading character from file
+Wed Dec 09 22:06:35 CST 2020: Created character type 1
+Wed Dec 09 22:06:35 CST 2020: Created character type 4
+Wed Dec 09 22:06:35 CST 2020: Dialog continued
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Monster defeated!
+Wed Dec 09 22:06:35 CST 2020: Dialog continued
+Wed Dec 09 22:06:35 CST 2020: Created character type 3
+Wed Dec 09 22:06:35 CST 2020: Dialog continued
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card3 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card3 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card3 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Card2 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card2 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Heal
+Wed Dec 09 22:06:35 CST 2020: Card1 clicked.
+Wed Dec 09 22:06:35 CST 2020: Monster uses Attack
+Wed Dec 09 22:06:35 CST 2020: Monster defeated!
+Wed Dec 09 22:07:48 CST 2020: Start game clicked
+Wed Dec 09 22:07:48 CST 2020: Created character type 1
+Wed Dec 09 22:07:48 CST 2020: Saving character 
+Wed Dec 09 22:07:48 CST 2020: Character 0 chosen
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Reading character from file
+Wed Dec 09 22:07:48 CST 2020: Created character type 1
+Wed Dec 09 22:07:48 CST 2020: Created character type 4
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Monster defeated!
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Created character type 3
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Card3 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card3 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card3 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Card1 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:07:48 CST 2020: Monster defeated!
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Created character type 3
+Wed Dec 09 22:07:48 CST 2020: Dialog continued
+Wed Dec 09 22:07:48 CST 2020: Card3 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card3 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Heal
+Wed Dec 09 22:07:48 CST 2020: Card3 clicked.
+Wed Dec 09 22:07:48 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Start game clicked
+Wed Dec 09 22:11:39 CST 2020: Created character type 1
+Wed Dec 09 22:11:39 CST 2020: Saving character 
+Wed Dec 09 22:11:39 CST 2020: Character 0 chosen
+Wed Dec 09 22:11:39 CST 2020: Dialog continued
+Wed Dec 09 22:11:39 CST 2020: Dialog continued
+Wed Dec 09 22:11:39 CST 2020: Reading character from file
+Wed Dec 09 22:11:39 CST 2020: Created character type 1
+Wed Dec 09 22:11:39 CST 2020: Created character type 4
+Wed Dec 09 22:11:39 CST 2020: Dialog continued
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Attack
+Wed Dec 09 22:11:39 CST 2020: Card1 clicked.
+Wed Dec 09 22:11:39 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Start game clicked
+Wed Dec 09 22:12:05 CST 2020: Created character type 1
+Wed Dec 09 22:12:05 CST 2020: Saving character 
+Wed Dec 09 22:12:05 CST 2020: Character 0 chosen
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Reading character from file
+Wed Dec 09 22:12:05 CST 2020: Created character type 1
+Wed Dec 09 22:12:05 CST 2020: Created character type 4
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Heal
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:12:05 CST 2020: Monster defeated!
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Created character type 3
+Wed Dec 09 22:12:05 CST 2020: Dialog continued
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Card1 clicked.
+Wed Dec 09 22:12:05 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Start game clicked
+Wed Dec 09 22:16:45 CST 2020: Created character type 1
+Wed Dec 09 22:16:45 CST 2020: Saving character 
+Wed Dec 09 22:16:45 CST 2020: Character 0 chosen
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Reading character from file
+Wed Dec 09 22:16:45 CST 2020: Created character type 1
+Wed Dec 09 22:16:45 CST 2020: Created character type 4
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Monster defeated!
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Created character type 3
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Monster defeated!
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Created character type 3
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Monster defeated!
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Created character type 3
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Heal
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Card1 clicked.
+Wed Dec 09 22:16:45 CST 2020: Monster uses Attack
+Wed Dec 09 22:16:45 CST 2020: Monster defeated!
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:16:45 CST 2020: Created character type 3
+Wed Dec 09 22:16:45 CST 2020: Dialog continued
+Wed Dec 09 22:17:23 CST 2020: Start game clicked
+Wed Dec 09 22:17:23 CST 2020: Created character type 1
+Wed Dec 09 22:17:23 CST 2020: Saving character 
+Wed Dec 09 22:17:23 CST 2020: Character 0 chosen
+Wed Dec 09 22:17:23 CST 2020: Dialog continued
+Wed Dec 09 22:17:23 CST 2020: Dialog continued
+Wed Dec 09 22:17:23 CST 2020: Reading character from file
+Wed Dec 09 22:17:23 CST 2020: Created character type 1
+Wed Dec 09 22:17:23 CST 2020: Created character type 4
+Wed Dec 09 22:17:23 CST 2020: Dialog continued
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Monster defeated!
+Wed Dec 09 22:17:23 CST 2020: Dialog continued
+Wed Dec 09 22:17:23 CST 2020: Created character type 3
+Wed Dec 09 22:17:23 CST 2020: Dialog continued
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Heal
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Card1 clicked.
+Wed Dec 09 22:17:23 CST 2020: Monster uses Attack
+Wed Dec 09 22:17:23 CST 2020: Monster defeated!
+Wed Dec 09 22:18:55 CST 2020: Settings clicked
+Wed Dec 09 22:18:55 CST 2020: Start game clicked
+Wed Dec 09 22:18:55 CST 2020: Created character type 1
+Wed Dec 09 22:18:55 CST 2020: Saving character 
+Wed Dec 09 22:18:55 CST 2020: Character 0 chosen
+Wed Dec 09 22:18:55 CST 2020: Dialog continued
+Wed Dec 09 22:18:55 CST 2020: Dialog continued
+Wed Dec 09 22:18:55 CST 2020: Reading character from file
+Wed Dec 09 22:18:55 CST 2020: Created character type 1
+Wed Dec 09 22:18:55 CST 2020: Created character type 4
+Wed Dec 09 22:18:55 CST 2020: Dialog continued
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Heal
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Heal
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Attack
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Attack
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Attack
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Heal
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Heal
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Attack
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Attack
+Wed Dec 09 22:18:55 CST 2020: Card1 clicked.
+Wed Dec 09 22:18:55 CST 2020: Monster uses Attack
+Wed Dec 09 22:18:55 CST 2020: Monster defeated!
+Wed Dec 09 22:18:55 CST 2020: Dialog continued
+Wed Dec 09 22:18:55 CST 2020: Created character type 3
+Wed Dec 09 22:21:10 CST 2020: Start game clicked
+Wed Dec 09 22:21:10 CST 2020: Created character type 1
+Wed Dec 09 22:21:10 CST 2020: Saving character 
+Wed Dec 09 22:21:10 CST 2020: Character 0 chosen
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Reading character from file
+Wed Dec 09 22:21:10 CST 2020: Created character type 1
+Wed Dec 09 22:21:10 CST 2020: Created character type 4
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Monster defeated!
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Created character type 4
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Monster defeated!
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Created character type 4
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Heal
+Wed Dec 09 22:21:10 CST 2020: Card1 clicked.
+Wed Dec 09 22:21:10 CST 2020: Monster uses Attack
+Wed Dec 09 22:21:10 CST 2020: Monster defeated!
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Created character type 4
+Wed Dec 09 22:21:10 CST 2020: Dialog continued
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:21:10 CST 2020: Pause button clicked
+Wed Dec 09 22:23:31 CST 2020: Start game clicked
+Wed Dec 09 22:23:31 CST 2020: Created character type 1
+Wed Dec 09 22:23:31 CST 2020: Saving character 
+Wed Dec 09 22:23:31 CST 2020: Character 0 chosen
+Wed Dec 09 22:23:31 CST 2020: Dialog continued
+Wed Dec 09 22:23:31 CST 2020: Dialog continued
+Wed Dec 09 22:23:31 CST 2020: Reading character from file
+Wed Dec 09 22:23:31 CST 2020: Created character type 1
+Wed Dec 09 22:23:31 CST 2020: Created character type 4
+Wed Dec 09 22:23:31 CST 2020: Dialog continued
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Heal
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Heal
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Heal
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Monster defeated!
+Wed Dec 09 22:23:31 CST 2020: Dialog continued
+Wed Dec 09 22:23:31 CST 2020: Created character type 4
+Wed Dec 09 22:23:31 CST 2020: Dialog continued
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Heal
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Card1 clicked.
+Wed Dec 09 22:23:31 CST 2020: Monster uses Attack
+Wed Dec 09 22:23:31 CST 2020: Monster defeated!
+Wed Dec 09 22:24:11 CST 2020: Start game clicked
+Wed Dec 09 22:24:11 CST 2020: Created character type 1
+Wed Dec 09 22:24:11 CST 2020: Saving character 
+Wed Dec 09 22:24:11 CST 2020: Character 0 chosen
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Reading character from file
+Wed Dec 09 22:24:11 CST 2020: Created character type 1
+Wed Dec 09 22:24:11 CST 2020: Created character type 4
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Monster defeated!
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Created character type 5
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Monster defeated!
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Created character type 6
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Monster defeated!
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Created character type 7
+Wed Dec 09 22:24:11 CST 2020: Dialog continued
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:11 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:11 CST 2020: Monster defeated!
+Wed Dec 09 22:24:44 CST 2020: Start game clicked
+Wed Dec 09 22:24:44 CST 2020: Created character type 1
+Wed Dec 09 22:24:44 CST 2020: Saving character 
+Wed Dec 09 22:24:44 CST 2020: Character 0 chosen
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Reading character from file
+Wed Dec 09 22:24:44 CST 2020: Created character type 1
+Wed Dec 09 22:24:44 CST 2020: Created character type 4
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Monster defeated!
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Created character type 5
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Monster defeated!
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Created character type 6
+Wed Dec 09 22:24:44 CST 2020: Dialog continued
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Heal
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Card1 clicked.
+Wed Dec 09 22:24:44 CST 2020: Monster uses Attack
+Wed Dec 09 22:24:44 CST 2020: Monster defeated!
+Wed Dec 09 22:24:44 CST 2020: Game Reset After Won
+Wed Dec 09 22:24:44 CST 2020: Start game clicked
+Wed Dec 09 22:27:08 CST 2020: Start game clicked
+Wed Dec 09 22:27:08 CST 2020: Created character type 1
+Wed Dec 09 22:27:08 CST 2020: Saving character 
+Wed Dec 09 22:27:08 CST 2020: Character 0 chosen
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Reading character from file
+Wed Dec 09 22:27:08 CST 2020: Created character type 1
+Wed Dec 09 22:27:08 CST 2020: Created character type 4
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Monster defeated!
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Created character type 5
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Monster defeated!
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Created character type 6
+Wed Dec 09 22:27:08 CST 2020: Dialog continued
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Heal
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Card1 clicked.
+Wed Dec 09 22:27:08 CST 2020: Monster uses Attack
+Wed Dec 09 22:27:08 CST 2020: Monster defeated!
+Wed Dec 09 22:27:08 CST 2020: Game Lost
+Wed Dec 09 22:29:42 CST 2020: Start game clicked
+Wed Dec 09 22:29:42 CST 2020: Created character type 1
+Wed Dec 09 22:29:42 CST 2020: Saving character 
+Wed Dec 09 22:29:42 CST 2020: Character 0 chosen
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:29:42 CST 2020: Reading character from file
+Wed Dec 09 22:29:42 CST 2020: Created character type 1
+Wed Dec 09 22:29:42 CST 2020: Created character type 4
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Heal
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Heal
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Monster defeated!
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:29:42 CST 2020: Created character type 5
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Heal
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Heal
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Heal
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Heal
+Wed Dec 09 22:29:42 CST 2020: Card1 clicked.
+Wed Dec 09 22:29:42 CST 2020: Monster uses Attack
+Wed Dec 09 22:29:42 CST 2020: Monster defeated!
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:29:42 CST 2020: Created character type 6
+Wed Dec 09 22:29:42 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Start game clicked
+Wed Dec 09 22:30:47 CST 2020: Created character type 1
+Wed Dec 09 22:30:47 CST 2020: Saving character 
+Wed Dec 09 22:30:47 CST 2020: Character 0 chosen
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Reading character from file
+Wed Dec 09 22:30:47 CST 2020: Created character type 1
+Wed Dec 09 22:30:47 CST 2020: Created character type 4
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Heal
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Monster defeated!
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Created character type 5
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Heal
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Heal
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Monster defeated!
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Created character type 6
+Wed Dec 09 22:30:47 CST 2020: Dialog continued
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Heal
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Heal
+Wed Dec 09 22:30:47 CST 2020: Card1 clicked.
+Wed Dec 09 22:30:47 CST 2020: Monster uses Attack
+Wed Dec 09 22:30:47 CST 2020: Monster defeated!
+Wed Dec 09 22:30:47 CST 2020: Game Lost
+Wed Dec 09 22:31:24 CST 2020: Start game clicked
+Wed Dec 09 22:31:24 CST 2020: Created character type 1
+Wed Dec 09 22:31:24 CST 2020: Saving character 
+Wed Dec 09 22:31:24 CST 2020: Character 0 chosen
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Reading character from file
+Wed Dec 09 22:31:24 CST 2020: Created character type 1
+Wed Dec 09 22:31:24 CST 2020: Created character type 4
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Monster defeated!
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Created character type 5
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Monster defeated!
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Created character type 6
+Wed Dec 09 22:31:24 CST 2020: Dialog continued
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:24 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:24 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:24 CST 2020: Game Lost
+Wed Dec 09 22:31:54 CST 2020: Start game clicked
+Wed Dec 09 22:31:54 CST 2020: Created character type 1
+Wed Dec 09 22:31:54 CST 2020: Saving character 
+Wed Dec 09 22:31:54 CST 2020: Character 0 chosen
+Wed Dec 09 22:31:54 CST 2020: Dialog continued
+Wed Dec 09 22:31:54 CST 2020: Dialog continued
+Wed Dec 09 22:31:54 CST 2020: Reading character from file
+Wed Dec 09 22:31:54 CST 2020: Created character type 1
+Wed Dec 09 22:31:54 CST 2020: Created character type 4
+Wed Dec 09 22:31:54 CST 2020: Dialog continued
+Wed Dec 09 22:31:54 CST 2020: Pause button clicked
+Wed Dec 09 22:31:54 CST 2020: Pause button clicked
+Wed Dec 09 22:31:54 CST 2020: Pause button clicked
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Heal
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:54 CST 2020: Card1 clicked.
+Wed Dec 09 22:31:54 CST 2020: Monster uses Attack
+Wed Dec 09 22:31:54 CST 2020: Monster defeated!
+Wed Dec 09 22:31:54 CST 2020: Dialog continued
+Wed Dec 09 22:31:54 CST 2020: Created character type 5
+Wed Dec 09 22:31:54 CST 2020: Dialog continued
+Wed Dec 09 22:31:54 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Start game clicked
+Wed Dec 09 22:36:30 CST 2020: Created character type 1
+Wed Dec 09 22:36:30 CST 2020: Saving character 
+Wed Dec 09 22:36:30 CST 2020: Character 0 chosen
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Reading character from file
+Wed Dec 09 22:36:30 CST 2020: Created character type 1
+Wed Dec 09 22:36:30 CST 2020: Created character type 4
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Monster defeated!
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Created character type 5
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Monster defeated!
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Created character type 6
+Wed Dec 09 22:36:30 CST 2020: Dialog continued
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Pause button clicked
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card3 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card3 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card3 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card3 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Heal
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:36:30 CST 2020: Card1 clicked.
+Wed Dec 09 22:36:30 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Start game clicked
+Wed Dec 09 22:37:33 CST 2020: Created character type 1
+Wed Dec 09 22:37:33 CST 2020: Saving character 
+Wed Dec 09 22:37:33 CST 2020: Character 0 chosen
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Reading character from file
+Wed Dec 09 22:37:33 CST 2020: Created character type 1
+Wed Dec 09 22:37:33 CST 2020: Created character type 4
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Monster defeated!
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Created character type 5
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Monster defeated!
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Created character type 6
+Wed Dec 09 22:37:33 CST 2020: Dialog continued
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Heal
+Wed Dec 09 22:37:33 CST 2020: Card1 clicked.
+Wed Dec 09 22:37:33 CST 2020: Monster uses Attack
+Wed Dec 09 22:37:33 CST 2020: Monster defeated!
+Wed Dec 09 22:37:33 CST 2020: Game Reset After Won
+Wed Dec 09 22:37:33 CST 2020: Settings clicked
+Wed Dec 09 22:37:33 CST 2020: Exit game clicked
+Wed Dec 09 22:38:53 CST 2020: Start game clicked
+Wed Dec 09 22:38:53 CST 2020: Created character type 1
+Wed Dec 09 22:38:53 CST 2020: Saving character 
+Wed Dec 09 22:38:53 CST 2020: Character 0 chosen
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Reading character from file
+Wed Dec 09 22:38:53 CST 2020: Created character type 1
+Wed Dec 09 22:38:53 CST 2020: Created character type 4
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Monster defeated!
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Created character type 5
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Heal
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Monster defeated!
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Created character type 6
+Wed Dec 09 22:38:53 CST 2020: Dialog continued
+Wed Dec 09 22:38:53 CST 2020: Card2 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card2 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card2 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Card1 clicked.
+Wed Dec 09 22:38:53 CST 2020: Monster uses Attack
+Wed Dec 09 22:38:53 CST 2020: Monster defeated!
+Wed Dec 09 22:41:59 CST 2020: Settings clicked
+Wed Dec 09 23:00:54 CST 2020: Start game clicked
+Wed Dec 09 23:00:54 CST 2020: Created character type 1
+Wed Dec 09 23:00:54 CST 2020: Saving character 
+Wed Dec 09 23:00:54 CST 2020: Character 0 chosen
+Wed Dec 09 23:00:54 CST 2020: Dialog continued
+Wed Dec 09 23:00:54 CST 2020: Dialog continued
+Wed Dec 09 23:00:54 CST 2020: Reading character from file
+Wed Dec 09 23:00:54 CST 2020: Created character type 1
+Wed Dec 09 23:00:54 CST 2020: Created character type 4
+Wed Dec 09 23:00:54 CST 2020: Dialog continued
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:00:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:00:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:01:34 CST 2020: Start game clicked
+Wed Dec 09 23:01:34 CST 2020: Created character type 1
+Wed Dec 09 23:01:34 CST 2020: Saving character 
+Wed Dec 09 23:01:34 CST 2020: Character 0 chosen
+Wed Dec 09 23:01:34 CST 2020: Dialog continued
+Wed Dec 09 23:01:34 CST 2020: Dialog continued
+Wed Dec 09 23:01:34 CST 2020: Reading character from file
+Wed Dec 09 23:01:34 CST 2020: Created character type 1
+Wed Dec 09 23:01:34 CST 2020: Created character type 4
+Wed Dec 09 23:01:34 CST 2020: Dialog continued
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Attack
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Attack
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Attack
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Heal
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Attack
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Heal
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Attack
+Wed Dec 09 23:01:34 CST 2020: Card1 clicked.
+Wed Dec 09 23:01:34 CST 2020: Monster uses Attack
+Wed Dec 09 23:01:34 CST 2020: Monster defeated!
+Wed Dec 09 23:01:34 CST 2020: Dialog continued
+Wed Dec 09 23:01:34 CST 2020: Created character type 5
+Wed Dec 09 23:01:34 CST 2020: Dialog continued
+Wed Dec 09 23:05:06 CST 2020: Start game clicked
+Wed Dec 09 23:05:06 CST 2020: Created character type 1
+Wed Dec 09 23:05:06 CST 2020: Saving character 
+Wed Dec 09 23:05:06 CST 2020: Character 0 chosen
+Wed Dec 09 23:05:06 CST 2020: Dialog continued
+Wed Dec 09 23:05:06 CST 2020: Dialog continued
+Wed Dec 09 23:05:06 CST 2020: Reading character from file
+Wed Dec 09 23:05:06 CST 2020: Created character type 1
+Wed Dec 09 23:05:06 CST 2020: Created character type 4
+Wed Dec 09 23:05:06 CST 2020: Dialog continued
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Card1 clicked.
+Wed Dec 09 23:05:06 CST 2020: Monster uses Attack
+Wed Dec 09 23:05:06 CST 2020: Monster defeated!
+Wed Dec 09 23:05:06 CST 2020: Dialog continued
+Wed Dec 09 23:30:25 CST 2020: Start game clicked
+Wed Dec 09 23:30:25 CST 2020: Created character type 1
+Wed Dec 09 23:30:25 CST 2020: Saving character 
+Wed Dec 09 23:30:25 CST 2020: Error opening ../Dialog/Intro.txt
+Wed Dec 09 23:30:25 CST 2020: Character 0 chosen
+Wed Dec 09 23:41:54 CST 2020: Start game clicked
+Wed Dec 09 23:41:54 CST 2020: Created character type 1
+Wed Dec 09 23:41:54 CST 2020: Saving character 
+Wed Dec 09 23:41:54 CST 2020: Character 0 chosen
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Reading character from file
+Wed Dec 09 23:41:54 CST 2020: Created character type 1
+Wed Dec 09 23:41:54 CST 2020: Created character type 4
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Monster defeated!
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Created character type 5
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Monster defeated!
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Created character type 6
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Monster defeated!
+Wed Dec 09 23:41:54 CST 2020: Game Reset After Won
+Wed Dec 09 23:41:54 CST 2020: Start game clicked
+Wed Dec 09 23:41:54 CST 2020: Created character type 1
+Wed Dec 09 23:41:54 CST 2020: Saving character 
+Wed Dec 09 23:41:54 CST 2020: Character 0 chosen
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Created character type 4
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Monster defeated!
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Created character type 5
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Heal
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Monster defeated!
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Created character type 6
+Wed Dec 09 23:41:54 CST 2020: Dialog continued
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Card1 clicked.
+Wed Dec 09 23:41:54 CST 2020: Monster uses Attack
+Wed Dec 09 23:41:54 CST 2020: Monster defeated!
+Wed Dec 09 23:41:54 CST 2020: Game Lost
+Wed Dec 09 23:42:57 CST 2020: Start game clicked
+Wed Dec 09 23:42:57 CST 2020: Created character type 1
+Wed Dec 09 23:42:57 CST 2020: Saving character 
+Wed Dec 09 23:42:57 CST 2020: Character 0 chosen
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Reading character from file
+Wed Dec 09 23:42:57 CST 2020: Created character type 1
+Wed Dec 09 23:42:57 CST 2020: Created character type 4
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Heal
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Heal
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Monster defeated!
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Created character type 5
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Heal
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Heal
+Wed Dec 09 23:42:57 CST 2020: Card1 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Monster defeated!
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Created character type 6
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Heal
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Heal
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Card3 clicked.
+Wed Dec 09 23:42:57 CST 2020: Monster uses Attack
+Wed Dec 09 23:42:57 CST 2020: Game Reset
+Wed Dec 09 23:42:57 CST 2020: Start game clicked
+Wed Dec 09 23:42:57 CST 2020: Created character type 1
+Wed Dec 09 23:42:57 CST 2020: Saving character 
+Wed Dec 09 23:42:57 CST 2020: Character 0 chosen
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Created character type 4
+Wed Dec 09 23:42:57 CST 2020: Dialog continued
+Wed Dec 09 23:42:57 CST 2020: Game Reset
+Wed Dec 09 23:42:57 CST 2020: Start game clicked
+Wed Dec 09 23:42:57 CST 2020: Created character type 1
+Wed Dec 09 23:42:57 CST 2020: Saving character 
+Wed Dec 09 23:42:57 CST 2020: Character 0 chosen
+Wed Dec 09 23:43:42 CST 2020: Start game clicked
+Wed Dec 09 23:44:11 CST 2020: Start game clicked
+Wed Dec 09 23:44:11 CST 2020: Created character type 1
+Wed Dec 09 23:44:11 CST 2020: Saving character 
+Wed Dec 09 23:44:11 CST 2020: Character 0 chosen
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Reading character from file
+Wed Dec 09 23:44:11 CST 2020: Created character type 1
+Wed Dec 09 23:44:11 CST 2020: Created character type 4
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Monster defeated!
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Created character type 5
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Monster defeated!
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Created character type 6
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Card3 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Attack
+Wed Dec 09 23:44:11 CST 2020: Game Reset
+Wed Dec 09 23:44:11 CST 2020: Start game clicked
+Wed Dec 09 23:44:11 CST 2020: Created character type 1
+Wed Dec 09 23:44:11 CST 2020: Saving character 
+Wed Dec 09 23:44:11 CST 2020: Character 0 chosen
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Created character type 4
+Wed Dec 09 23:44:11 CST 2020: Dialog continued
+Wed Dec 09 23:44:11 CST 2020: Card1 clicked.
+Wed Dec 09 23:44:11 CST 2020: Monster uses Heal
